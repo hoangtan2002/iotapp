@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
     TextView txtTemp, txtHumi, seekBarLabel;
     LabeledSwitch btnLED, btnPUMP;
     SeekBar adjBar;
-    Button setupButton;
     @Override
 
     protected void onCreate(Bundle savedInstanceState) {
